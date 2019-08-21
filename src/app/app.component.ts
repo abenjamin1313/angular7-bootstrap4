@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'Angular 7 Demo app + Boostrap 4 + Sass & Gulp';
+  title = 'ang7-bootstrap4-boilerblate';
 }
